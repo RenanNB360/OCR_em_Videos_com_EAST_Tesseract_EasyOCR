@@ -1,0 +1,1 @@
+# OCR_em_Videos_com_EAST_Tesseract_EasyOCR
